@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Dochazka_Kacka</id>
+    <version>1.0.0</version>
+    <authors>23laky</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>logo JEKLHAUPTMAN.png</icon>
+    <description>Rychlé počítání docházky pro moji milovanou Kačku.</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\bin\Debug\net5.0-windows\Dochazka_Kacka.runtimeconfig.json" target="lib\net5.0-windows7.0\Dochazka_Kacka.runtimeconfig.json" />
+    <file src="C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\bin\Debug\net5.0-windows\Dochazka_Kacka.dll" target="lib\net5.0-windows7.0\Dochazka_Kacka.dll" />
+    <file src="C:\Users\Lukáš\Desktop\logo JEKLHAUPTMAN.png" target="logo JEKLHAUPTMAN.png" />
+  </files>
+</package>

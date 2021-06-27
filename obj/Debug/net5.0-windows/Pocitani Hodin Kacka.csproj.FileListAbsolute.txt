@@ -1,0 +1,20 @@
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\obj\Debug\net5.0-windows\Pocitani_Hodin_Kacka.DotazNaMesic.resources
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\obj\Debug\net5.0-windows\Pocitani_Hodin_Kacka.MainForm.resources
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\obj\Debug\net5.0-windows\Pocitani Hodin Kacka.csproj.GenerateResource.cache
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\obj\Debug\net5.0-windows\Pocitani Hodin Kacka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\obj\Debug\net5.0-windows\Pocitani Hodin Kacka.AssemblyInfoInputs.cache
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\obj\Debug\net5.0-windows\Pocitani Hodin Kacka.AssemblyInfo.cs
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\obj\Debug\net5.0-windows\Pocitani Hodin Kacka.csproj.CoreCompileInputs.cache
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\obj\Debug\net5.0-windows\Pocitani Hodin Kacka.genruntimeconfig.cache
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\bin\Debug\net5.0-windows\Dochazka_Kacka.exe
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\bin\Debug\net5.0-windows\Dochazka_Kacka.deps.json
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\bin\Debug\net5.0-windows\Dochazka_Kacka.runtimeconfig.json
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\bin\Debug\net5.0-windows\Dochazka_Kacka.runtimeconfig.dev.json
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\bin\Debug\net5.0-windows\Dochazka_Kacka.dll
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\bin\Debug\net5.0-windows\ref\Dochazka_Kacka.dll
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\bin\Debug\net5.0-windows\Dochazka_Kacka.pdb
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\obj\Debug\net5.0-windows\Dochazka_Kacka.Properties.Resources.resources
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\obj\Debug\net5.0-windows\Dochazka_Kacka.dll
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\obj\Debug\net5.0-windows\ref\Dochazka_Kacka.dll
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\obj\Debug\net5.0-windows\Dochazka_Kacka.pdb
+C:\Users\Lukáš\source\repos\Pocitani Hodin Kacka\obj\Debug\net5.0-windows\Pocitani Hodin Kacka.csprojAssemblyReference.cache
